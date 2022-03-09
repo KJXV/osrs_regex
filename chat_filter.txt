@@ -1,6 +1,30 @@
 ^ +$
+^ *doublin your money, \d+m left come+ *$
+^ *use.+hosts - dont fall for scammers *$
+^ *avoid fakers.+bets fakrs *$
+is mad because we kicked their scum b0t! *$
+^ *avoid fakes and scammer \(
+\( caw w330 \)
+^ *want a infernal cape?.+c\.0m *$
 ^ *runebet \(\)
 \(\)fuckm
+^ *fair prices, great staff & service! g
+^ *join runescape.s #1 marketplace! g
+m - #1 marketplace for runescape *$
+m - we trade you .safely., ask us how! *$
+^ *we will always offer the best price! g
+^ *account shop \| mains & pures \| g
+^ *safe trades and we are anti-r.w.t! g
+^ skip the grind with our account shop! g
+^ *we are always buying for the best rate! g
+\.gg [\\/] stamina
+\|<gt> 54×2 <lt>\|
+rolled \(\d+/\d+\) - (win|lose) @
+has been paid: \d+k +@
+^ *gpstall : c\.0m
+gpstall : c\.0m *$
+- gpstall : c\.0m -
+join [\[<gt>]+ nex swap
 ^ *impostor: .+, don't play fakes! *$
 ^ *warning: .+ is a fake host! *$
  w-o-n \d+ *[kmb].+with a roll of
@@ -137,7 +161,9 @@ has been paid *\d{1,4} *[kmb](il+)?! @
 ^ *hide your name from game results with \(!p\)rivate\. *$
 infernoscape.+g
 \] *are hacked accounts to scam!* *$
+twitch.+giveaway.+drop part
+^ *(buy|sel+)ing (all )?burn(t|e?d) food
+^ *(buy|sel+)ing?( bulk| all)? feathers? \d *(gp|coins)( ea(ch)?)?
 ^ *do n\.?o\.?t search for (keyword )?giveaways on youtub
 ^ *(buy|sel+)ing? .+ ?[-|]+ ?[\w\-_ ]+ *$
-^ *(buy|sel+)ing? .+[\d\.]+(m|b)!? *$
 not safe on pvp.+you never get the sceptre
