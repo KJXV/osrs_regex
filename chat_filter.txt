@@ -1,169 +1,216 @@
-^ +$
-^ *doublin your money, \d+m left come+ *$
-^ *use.+hosts - dont fall for scammers *$
-^ *avoid fakers.+bets fakrs *$
-is mad because we kicked their scum b0t! *$
-^ *avoid fakes and scammer \(
-\( caw w330 \)
-^ *want a infernal cape?.+c\.0m *$
-^ *runebet \(\)
-\(\)fuckm
-^ *fair prices, great staff & service! g
-^ *join runescape.s #1 marketplace! g
-m - #1 marketplace for runescape *$
-m - we trade you .safely., ask us how! *$
-^ *we will always offer the best price! g
-^ *account shop \| mains & pures \| g
-^ *safe trades and we are anti-r.w.t! g
-^ skip the grind with our account shop! g
-^ *we are always buying for the best rate! g
-\.gg [\\/] stamina
-\|<gt> 54×2 <lt>\|
-rolled \(\d+/\d+\) - (win|lose) @
-has been paid: \d+k +@
-^ *gpstall : c\.0m
-gpstall : c\.0m *$
-- gpstall : c\.0m -
-join [\[<gt>]+ nex swap
-^ *impostor: .+, don't play fakes! *$
-^ *warning: .+ is a fake host! *$
- w-o-n \d+ *[kmb].+with a roll of
-^ *\d+ *[kmb] paid out to .+ @ \d\d:\d\d:\d\d [ap]m *$
-\| *\( *\d+ *k min(imum)? *\) *\|
-swap.+rs3.+\(\)7.+d.?m.?m.+join.+cc
-[<gt>\[]+ *(99 swap|trade rs|gamer swap|ac swap|eco swap|coswap) *[<lt>\]]
-\| (arena|duel|low|high|(royal )?slots|odd) \(![adlhsro]\)
-.+chance.+win.+t([ -]?bow|wisted).+you[ -]*tube
-next \d+ players get \d+ *[kmb](il+)?.+you[ -]*tube
-^ *(does )?any[ -]?(one|body)( (in )?here)? (have|got) *(a|some)?( full)? rune *(armou?r *)?(se?t)?( for me( to (have|keep))?)?\?* *$
-^ *\[.+\] is a lurer using glitches to scam you out of( your)? items!* *$
-röll öf \(
-was to busy trade declined \(\d/\d\)
-\| legit dice games
-\| *5[45]x2 *\|
- has ((won|lost) slots|been paid).+\[\d\d:\d\d:\d\d\] *$
-join.+cc.+legit.+dicing
-^ *show \d+ *[kmb](il+)? for (max cash|2[\.,]?147 *m|2([\.,]1)? *b)
-over \d{3}.\d\db paid! * \|
-^ *automated host \|
-you löst with röll of
-^ *2(.1)?b for[ \?]*$
-ubc bets.+win more
-\|.+dice war.+\|
-^ *massive payouts *\|
-over.+paid ! \|
-\| trusted & fun dicing
-^casino located @
 ''99 swap''
-^ *show inv(en?tory)? for (\d{1,4}[bm]|max (cash|stack))
-^ *\[beware\] these players are (scam|lur)
-^ *(spending|offer for) (max cash|2[\.,]?147 *m|2([\.,]1)? *b) *\??
-^ *\[beware\] of the following pvp (scam|lur) 
-^ *\[.+\] is a known (scamm|lur)er
-^ *quitting,next 25 plyrs get
-^ *quitting,\d{1,4}[bm] gp giveaway search youtube:-
-@ pogrs
-^ *[\w -_]{1,12} is a (scamm|lur)er( beware,)? tr(ying|ies) to gain( ur)? trust w/ fake antiscam!
-r *s *m *a *l *l *s *\. *c *
-has (won|lost)( \d+[km]!?)? with a roll of
-runechat.gg
-^ *do?ub+ling? (all )?(coin|gp|money|gold|item)[sz]? *!* *$
-my m[iíl1]n[iíl1]m[uüú]m and max[iíl1]m[uüú]m bet [iíl1]s between
-^ *original (dice )?host
-has received their winnin?gs of:
-t bet on fakes! \|
- \|\| huge payouts!
-rng \d{4,5} [0-2][0-9](:[0-5][0-9]){2} *$
-next \d{1,3} players gets? \d{1,3}m.+search.+\w{3,4}\d{3,4}.+(facebook|youtube)
-^ *huge \d{1,3}[mb] giveaway started!+ *$
-^ *search ".+" on facebook *$
-^ *\d{1,4}[mb] giveaway.+first come first serve! *$
-^ *(((1 ?|fir)st|next) )?(one|player|person|user|account|guy|dude)? to show( me)? .+ (will )?(win|get|rec[ei]+ve?)s?
-^ *trade accepted for .+ amount: \d{1,4} *[kmb](il+)?
-giving \d{1,3}( percent|%) of what you (show|trade)
-- \(trade to play\) - 
-rolled a \[ \d{1,2} \] and 
- has (been paid the|traded) \[ \d{1,4}(\.\d+)? *[kmb](il+)? \]
- my m[iíl1]n[iíl1]m[uüú]m and max[iíl1]m[uüú]m is \[
-^ *(take?|ac+ept)ing( al+)? (gift|donation|trade)s?( pl(ease|[sz]))? *$
-^ *rewarding generosity!* *$
-\| 55x2 dice \|
-\|\| huge payouts
-^ *selling \d+ t(rout|una)s?!* *$
-^ *you only need to trade once! the current queue
-<gt> *(trade rs|gamer swap|ac swap) *<lt>
-^ *watch the video follow the steps and trade me!
-^ *visit rngbets\.net
-^ *trade from .+: \d{1,4} *[kmb](il+)?
-\| rng \d{4,5} [0-2][0-9](:[0-5][0-9]){2} *$
-^ *follow the instructions, message me for the trade!* *$
- wins! \d{1,4} *[kmb] *(il+)? with a \d{1,3} *$
- has received: \d{1,4} *[kmb](il+)? *$
- my bet (are|is) \d{1,4} *[kmb](il+)? coins\. *$
-\[gembets\]
-increasing banks by 10% 1 time only 1 trade
-^ *trade?ing up .+
-^ *dance?ing (for|4) (money|coins|items|\d{1,4} *[kmb](il+)?)[!\.]* *$
-^ *selling jokes?!* *$
-\| *\d{1,4} *[kmb](il+)? m[iíl1]n[iíl1]m[uüú]m *\|
-gu[iíl1]lded.gg/gem-bets
-^ *quit+ing! staking \d{1,4} ? *[kmb](il+)? all l(v|eve)ls! show (yo)?ur cash! *$
- y[0o]u?tube *<gt> *[a-z]{3,4}\d{3,4} *$
-^ *[\w\-_ ]+ lost :\( with a \d{1,3} *$
-^ *[\w\-_ ]+ wins! \d{1,4} *[kmb](il+)? with a \d{1,3} *$
-^ *[\w\-_ ]+ has received: \d{1,4} *[kmb](il+)? *$
-^ *[\w\-_ ]+ my bet (are|is) \d{1,4} *[kmb](il+)?\+ coins\. *$
-^ *the queue has \(\d{1,3}\) people\.( *\[\d{1,3}\] (win|loss) streak!)? *$
-s *e *l *l *r *s *0 *7
-watch and win [a-z]{3,4}\d{3,4} ytbe *$
-\| *55 *\+ wins! *\|
-^ *congratulations to [\w\-_ ]+ on a win of \d{1,4} *[kmb](il+)?! *$
-^ *(my m[iíl1]n[iíl1]m[uüú]m and maxim[uüú]m bet is|this machine only accepts coins\.) \(\d{1,4} *[kmb](il+)? to \d{1,4} *[kmb](il+)?\) coins\. try again\. *$
-d[iíl1]sc[oö0]rd.gg/stam[ií]na
-^ *[\w\-_ ]+ has declined the trade\. *$
-you,_,tube to win n0w *$
-\| *\d{1,4} *[kmb](il+)? m[iíl1]n([iíl1]m[uüú]m)? *\|
-^ *dancing for (free )?(money|items|gp|junk|stuff)!* *$
-(win|give[ -]?away).+["']*[a-z]{3,4}\d{3,4}["']* [o0]n y[o0]u?,? ?tu?be *$
-^ *trade accepted by [\w\-_ ]+: \d{1,4} *[kmb](il+)? *$
-[\|l] *roll( over)? 5[45]\* *[\|l]
-^ *doubling (money|g(old|p)).+\d{1,4} *[kmb](il+)? left
-^ *bot still works while muted
-hilo \d{4}
-depending ön yöur
-^ *\([\w\-_ ]+\) has (been paid|cashed in)
-^ *massive payouts!
-you (have )?rolled a \(\d\d\)
-fuck(\(\)|0|o) fuckm
-^ *\*+ has won:
-^ *scam+ers alert! "
-^ *add '[\w\-_ ]+' *to ignore, (he will try to gain ur trust w/|tries gaining trust with) fake antiscam! *$
-^ *beware (of )*fake antiscams, if it's too good to be true; then it is! *$
-^ *buy(ing)? (g[hr]+azi|rap[ie]+r|t(wisted|[ -]?bow)|el+y|dwh).* (\d{3,4} *[kmb](il+)?|max (cash|stack|gp))
-^ *\d+ *[kmb](il+)? re(c[ei]+ved|turned enjoy mate!) *$
-^ *trade accepted @
+(((1 ?|fir)st|next) )?(one|player|person|user|account|guy|dude)? to show( me)? .+ (will )?(win|get|rec[ei]+ve?)s?
+(buy|sel+)ing (all )?burn(t|e?d) food
+(buy|sel+)ing? .+ ?[-|]+ ?[\w\-_ ]+
+(buy|sel+)ing?( bulk| all)? feathers? \d *(gp|coins)( ea(ch)?)?
+(does )?any[ -]?(one|body)( (in )?here)? (have|got) *(a|some)?( full)? rune *(armou?r *)?(se?t)?( for me( to (have|keep))?)?\?*
+(my m[iíl1]n[iíl1]m[uüú]m and maxim[uüú]m bet is|this machine only accepts coins\.) \(\d{1,4} *[kmb](il+)? to \d{1,4} *[kmb](il+)?\) coins\. try again\.
+(spending|offer for) (max cash|2[\.,]?147 *m|2([\.,]1)? *b) *\??
+(take?|ac+ept)ing( al+)? (gift|donation|trade)s?( pl(ease|[sz]))?
+(win|give[ -]?away).+["']*[a-z]{3,4}\d{3,4}["']* [o0]n y[o0]u?,? ?tu?be
 (won|lost) (with ?|roll ?){2} .?\d{1,3}
-^ *roll 5\d\+
-^ *join.*(<gt>)+.+(<lt>)+
+- \(trade to play\) -
+- gpstall : c\.0m -
+.+chance.+win.+t([ -]?bow|wisted).+you[ -]*tube
+2(.1)?b for[ \?]*$
+<<<<.*[c]{2}
+<>.*r[0o]l{2}
+<gt> *(trade rs|gamer swap|ac swap) *<lt>
 <gt> *eco *swap *<lt>
-^ *hotroll:
+@ pogrs
+Place Bets
+Sell me all your bank
+[<gt>\[]+ *(99 swap|trade rs|gamer swap|ac swap|eco swap|coswap) *[<lt>\]]
+[O0]dds.*betting
+[\w -_]{1,12} is a (scamm|lur)er( beware,)? tr(ying|ies) to gain( ur)? trust w/ fake antiscam!
+[\w\-_ ]+ has declined the trade\.
+[\w\-_ ]+ has received: \d{1,4} *[kmb](il+)?
+[\w\-_ ]+ lost :\( with a \d{1,3}
+[\w\-_ ]+ my bet (are|is) \d{1,4} *[kmb](il+)?\+ coins\.
+[\w\-_ ]+ wins! \d{1,4} *[kmb](il+)? with a \d{1,3}
+[\|l] *roll( over)? 5[45]\* *[\|l]
+[^\u0000-\u007F]+
+\( caw w330 \)
+\(![A-Za-z]\)[A-Za-z]+
+\([\w\-_ ]+\) has (been paid|cashed in)
+\(\)fuckm
+\(game: .+\) id: \d+
 \) roll \d\d *\+ \(
-\(game: .+\) id: \d+ *$
-has cashed in: *\d{1,4} *[kmb](il+)?
-has run out of time. try again. *$
-lost with a roll of \(\d+\) *$
-lost fruit slots with \(.+\) *$
-uidhosts\.net
-^ *lurers to ignore\:
+\*+ has won:
+\.gg [\\/] stamina
+\[![A-Za-z]\]
+\[![A-z]\]
+\[.+\] is a known (scamm|lur)er
+\[.+\] is a lurer using glitches to scam you out of( your)? items!*
+\[beware\] of the following pvp (scam|lur)
+\[beware\] these players are (scam|lur)
+\[gembets\]
+\] *are hacked accounts to scam!*
+\d+ *[kmb] paid out to .+ @ \d\d:\d\d:\d\d [ap]m
+\d+ *[kmb](il+)? re(c[ei]+ved|turned enjoy mate!)
+\d{1,4}[mb] giveaway.+first come first serve!
+\| (arena|duel|low|high|(royal )?slots|odd) \(![adlhsro]\)
+\| *55 *\+ wins! *\|
+\| *5[45]x2 *\|
+\| *\( *\d+ *k min(imum)? *\) *\|
+\| *\d{1,4} *[kmb](il+)? m[iíl1]n([iíl1]m[uüú]m)? *\|
+\| *\d{1,4} *[kmb](il+)? m[iíl1]n[iíl1]m[uüú]m *\|
+\| 55x2 dice \|
+\| legit dice games
+\| rng \d{4,5} [0-2][0-9](:[0-5][0-9]){2}
+\| trusted & fun dicing
+\|.+dice war.+\|
+\|<gt> 54×2 <lt>\|
+\|\| huge payouts
+\|\| huge payouts!
+^ +$
+^ skip the grind with our account shop!
+a[l1][l1].*bets
+account shop \| mains & pures \|
+add '[\w\-_ ]+' *to ignore, (he will try to gain ur trust w/|tries gaining trust with) fake antiscam!
+automated host \|
+autotypers.*b[0o]ts
+avoid fakers.+bets fakrs
+avoid fakes and scammer \(
+b[0O]t.*fake
+b[0O]t.*scam
+b[e3]t.*fak[e3]*$
+bet.*pay[0O]ut
+betting.*?[0o]dds
+beware (of )*fake antiscams, if it's too good to be true; then it is!
+bot still works while muted
+buy(ing)? (g[hr]+azi|rap[ie]+r|t(wisted|[ -]?bow)|el+y|dwh).* (\d{3,4} *[kmb](il+)?|max (cash|stack|gp))
+casino located @
+chance.*?pay
+chance.*?pay[0o]ut
+clean out your banks!
+congratulations to [\w\-_ ]+ on a win of \d{1,4} *[kmb](il+)?!
+current game
+d[iíl1]sc[oö0]rd.gg/stam[ií]na
+dance?ing (for|4) (money|coins|items|\d{1,4} *[kmb](il+)?)[!\.]*
+dancing for (free )?(money|items|gp|junk|stuff)!*
+depending ön yöur
+do n\.?o\.?t search for (keyword )?giveaways on youtub
+do?ub+ling? (all )?(coin|gp|money|gold|item)[sz]? *!*
+doublin your money, \d+m left come+
+doubling (money|g(old|p)).+\d{1,4} *[kmb](il+)? left
+fair prices, great staff & service!
+fak[e3].*b[e3]t
+fake.*b[0O]ts
+follow the instructions, message me for the trade!*
+for all bank
+fuck(\(\)|0|o) fuckm
+game(.*?)m[0O]de
+giving \d{1,3}( percent|%) of what you (show|trade)
+gpstall : c\.0m
+gu[iíl1]lded.gg/gem-bets
+h[0O]st.*bet
+has ((won|lost) slots|been paid).+\[\d\d:\d\d:\d\d\]
+has (been paid the|traded) \[ \d{1,4}(\.\d+)? *[kmb](il+)? \]
+has (won|lost)( \d+[km]!?)? with a roll of
 has been paid *\d{1,4} *[kmb](il+)?! @
-^ *take?ing a(ll|ny) (junk|item)
-^ *clean out your banks! *$
-^ *hide your name from game results with \(!p\)rivate\. *$
+has been paid.*@
+has been paid: \d+k +@
+has cashed in: *\d{1,4} *[kmb](il+)?
+has received their winnin?gs of:
+has received: \d{1,4} *[kmb](il+)?
+has run out of time. try again.
+hide your name from game results with \(!p\)rivate\.
+hilo \d{4}
+hotroll:
+huge \d{1,3}[mb] giveaway started!+
+impostor: .+, don't play fakes!
+increasing banks by 10% 1 time only 1 trade
 infernoscape.+g
-\] *are hacked accounts to scam!* *$
-twitch.+giveaway.+drop part
-^ *(buy|sel+)ing (all )?burn(t|e?d) food
-^ *(buy|sel+)ing?( bulk| all)? feathers? \d *(gp|coins)( ea(ch)?)?
-^ *do n\.?o\.?t search for (keyword )?giveaways on youtub
-^ *(buy|sel+)ing? .+ ?[-|]+ ?[\w\-_ ]+ *$
+invite.*aid.*on
+is mad because we kicked their scum b0t!
+jackp[0o]ts
+join [\[<gt>]+ nex swap
+join runescape.s #1 marketplace!
+join.*(<gt>)+.+(<lt>)+
+join.+cc.+legit.+dicing
+l[0o]st
+large.*bet
+lost fruit slots with \(.+\)
+lost with a roll of \(\d+\)
+lurers to ignore\:
+m - #1 marketplace for runescape
+m - we trade you .safely., ask us how!
+massive payouts *\|
+massive payouts!
+min.*max.*[\d+]m
+my bet (are|is) \d{1,4} *[kmb](il+)? coins\.
+my m[iíl1]n[iíl1]m[uüú]m and max[iíl1]m[uüú]m bet [iíl1]s between
+my m[iíl1]n[iíl1]m[uüú]m and max[iíl1]m[uüú]m is \[
+next \d+ players get \d+ *[kmb](il+)?.+you[ -]*tube
+next \d{1,3} players gets? \d{1,3}m.+search.+\w{3,4}\d{3,4}.+(facebook|youtube)
 not safe on pvp.+you never get the sceptre
+original (dice )?host
+over \d{3}.\d\db paid! * \|
+over.+paid ! \|
+pay.*?chance
+pay[0O]ut.*bet
+quit+ing! staking \d{1,4} ? *[kmb](il+)? all l(v|eve)ls! show (yo)?ur cash!
+quitting,\d{1,4}[bm] gp giveaway search youtube:-
+quitting,next 25 plyrs get
+r *s *m *a *l *l *s *\. *c *
+r0ll
+r[0O]11
+rep[O0]rt.*\[.*\]
+rewarding generosity!*
+rng \d{4,5} [0-2][0-9](:[0-5][0-9]){2}
+roll 5\d\+
+rolled \(\d+/\d+\) - (win|lose) @
+rolled a \[ \d{1,2} \] and
+runebet \(\)
+runechat.gg
+röll öf \(
+s *e *l *l *r *s *0 *7
+safe trades and we are anti-r.w.t!
+scam+ers alert! "
+scam.*b[0O]ts
+scam.*bot
+scammer.*b[O0]t
+search ".+" on facebook
+selling \d+ t(rout|una)s?!*
+selling jokes?!*
+show \d+ *[kmb](il+)? for (max cash|2[\.,]?147 *m|2([\.,]1)? *b)
+show inv(en?tory)? for (\d{1,4}[bm]|max (cash|stack))
+swap.+rs3.+\(\)7.+d.?m.?m.+join.+cc
+t bet on fakes! \|
+take?ing a(ll|ny) (junk|item)
+the queue has \(\d{1,3}\) people\.( *\[\d{1,3}\] (win|loss) streak!)?
+trade accepted @
+trade accepted by [\w\-_ ]+: \d{1,4} *[kmb](il+)?
+trade accepted for .+ amount: \d{1,4} *[kmb](il+)?
+trade for invite
+trade from .+: \d{1,4} *[kmb](il+)?
+trade?ing up .+
+traded.*?@
+twitch.+giveaway.+drop part
+ubc bets.+win more
+uidhosts\.net
+use.+hosts - dont fall for scammers
+ven.*bot
+venezuelan.*b[0O]ts
+vennies
+visit rngbets\.net
+w-o-n \d+ *[kmb].+with a roll of
+w0n
+w1n
+w[O0]n.*r[o0][l1][l1]
+want a infernal cape?.+c\.0m
+warning: .+ is a fake host!
+was to busy trade declined \(\d/\d\)
+watch and win [a-z]{3,4}\d{3,4} ytbe
+watch the video follow the steps and trade me!
+we are always buying for the best rate!
+we are.*(roll|bet)
+we will always offer the best price!
+wins! \d{1,4} *[kmb] *(il+)? with a \d{1,3}
+y[0o]u?tube *<gt> *[a-z]{3,4}\d{3,4}
+you (have )?rolled a \(\d\d\)
+you löst with röll of
+you only need to trade once! the current queue
+you,_,tube to win n0w
+your fake bot
