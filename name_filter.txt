@@ -1,2 +1,2 @@
-^(vegas|raise|gamble|rng|roll|trusted) \d{3,}$
-^veg [a-z]\d[a-z]\d$
+(vegas|raise|gamble|rng|roll|trusted) \d{3,}
+veg [a-z]\d[a-z]\d
